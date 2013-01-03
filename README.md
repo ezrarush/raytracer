@@ -1,4 +1,4 @@
 raytracer
 =========
 
-lisp raytracer
+common lisp raytracer
